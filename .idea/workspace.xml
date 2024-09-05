@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="202f80bc-5cdc-485e-9863-665c6c2a70d5" name="Changes" comment="" />
+    <list default="true" id="202f80bc-5cdc-485e-9863-665c6c2a70d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -394,11 +396,22 @@
       <workItem from="1724409542899" duration="1552000" />
       <workItem from="1725197042520" duration="1797000" />
       <workItem from="1725259094443" duration="15366000" />
-      <workItem from="1725528535833" duration="1687000" />
+      <workItem from="1725528535833" duration="2326000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
