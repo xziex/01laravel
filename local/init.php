@@ -5,3 +5,4 @@
 function newLogic(){
     return true;
 }
+//add another logic for main
